@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+Here are a few things to get to know me:
 
 - 🔭 I’m currently working on Mobile App
 - 🌱 I’m currently learning ML: Linear Models 
